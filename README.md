@@ -44,7 +44,7 @@ Before running the project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/chat-application.git
+   git clone https://github.com/MajorTom3K1M/wasm-chat.git
    cd chat-application
    ```
 
@@ -67,7 +67,7 @@ Before running the project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/chat-application.git
+   git clone https://github.com/MajorTom3K1M/wasm-chat.git
    cd chat-application
    ```
 
