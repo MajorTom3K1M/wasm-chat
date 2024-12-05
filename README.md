@@ -18,9 +18,9 @@ A lightweight chat application that allows users to join chats, send messages, a
 
 Before running the project, ensure you have the following installed:
 
-- Rust (version 1.73 or higher)
+- Rust (version 1.73)
 - Cargo (Rust package manager)
-- Trunk (for building and serving the Yew frontend)
+- Trunk (for building and serving the Yew frontend version 0.16.0 required)
 - Docker Compose (optional, for running the Dockerized version)
 
 ## Configuration
