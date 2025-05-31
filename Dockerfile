@@ -1,4 +1,5 @@
 # Stage 1: Builder
+# FROM rust:1.82 as builder
 FROM rust:1.73 as builder
 
 # Install system dependencies required for building
